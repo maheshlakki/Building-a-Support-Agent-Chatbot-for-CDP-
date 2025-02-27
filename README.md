@@ -12,13 +12,13 @@ CDP Support Chatbot is a web-based chatbot application built using React, TypeSc
 - **ESLint**: Enforces code quality and best practices.
 
 ## Project Structure
-- **index.html**: Entry point of the application【23†source】.
+- **index.html**: Entry point of the application.
 - **src/**: Contains the main application logic.
-- **tsconfig.json & tsconfig.*.json**: TypeScript configuration files【19†source】【20†source】【21†source】.
+- **tsconfig.json & tsconfig.*.json**: TypeScript configuration files.
 - **vite.config.ts**: Vite configuration file.
-- **package.json**: Project dependencies and scripts【24†source】.
-- **eslint.config.js**: ESLint configuration for linting rules【22†source】.
-- **tailwind.config.js & postcss.config.js**: Configuration files for Tailwind CSS and PostCSS【26†source】【27†source】.
+- **package.json**: Project dependencies and scripts.
+- **eslint.config.js**: ESLint configuration for linting rules.
+- **tailwind.config.js & postcss.config.js**: Configuration files for Tailwind CSS and PostCSS.
 
 ## Installation & Setup
 1. **Clone the repository:**
