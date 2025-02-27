@@ -7,4 +7,6 @@ export default defineConfig({
   optimizeDeps: {
     exclude: ['lucide-react'],
   },
+  base: '/Building-a-Support-Agent-Chatbot-for-CDP-/', // Add your repository name
 });
+
